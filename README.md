@@ -219,7 +219,7 @@ Tip: If you want to find out where the program being run is located when you typ
 
 #### `/usr, /usr/local`, `/usr/local/bin`
 
-These directories are directories that are typically specific to an indivual.
+These directories are directories that are typically specific to an individual.
 
 If you look in /usr/local you'll see a Cellar directory where homebrew installs it's programs.
 
